@@ -4,3 +4,6 @@ pub mod arraystack;
 pub mod boundeddeque;
 pub mod dualarraydeque;
 pub mod rootisharraystack;
+pub mod vectrique;
+pub mod randomqueue;
+pub mod rotatelist;
