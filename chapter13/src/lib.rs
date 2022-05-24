@@ -1,3 +1,5 @@
+#![allow(unused)]
+
 pub mod binarytrie;
 pub mod xfasttrie;
 pub mod yfasttrie;

@@ -1,3 +1,5 @@
+#![allow(unused)]
+
 use super::arraystack::Array as ArrayStack;
 use chapter01::interface::List;
 
